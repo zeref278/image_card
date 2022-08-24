@@ -127,5 +127,4 @@ class TransparentImageCard extends StatelessWidget {
       ],
     );
   }
-
 }

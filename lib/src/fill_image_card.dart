@@ -96,5 +96,4 @@ class FillImageCard extends StatelessWidget {
       ),
     );
   }
-
 }

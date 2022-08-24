@@ -44,7 +44,9 @@ class ImageCardContent extends StatelessWidget {
                 children: [
                   if (title != null) title!,
                   if (title != null && description != null)
-                    const SizedBox(height: 2,),
+                    const SizedBox(
+                      height: 2,
+                    ),
                   if (description != null) description!,
                 ],
               ),
@@ -58,5 +60,4 @@ class ImageCardContent extends StatelessWidget {
       ),
     );
   }
-
 }
