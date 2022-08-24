@@ -2,12 +2,12 @@
 
 Customize a card with image by 2 type: fill or transparent
 
-![img](example/demo.gif)
+<img src="https://raw.githubusercontent.com/zeref278/image_card/main/example/demo.gif"/>
 
 ## Usage
 ### Fill image card
 
-![img](example/screenshot.png)
+<img src="https://raw.githubusercontent.com/zeref278/image_card/main/example/screenshot.png" width="300"/>
 
 ```dart
 FillImageCard(
@@ -22,8 +22,7 @@ FillImageCard(
 
 ### Transparent image card
 
-![img](example/screenshot1.png)
-
+<img src="https://raw.githubusercontent.com/zeref278/image_card/main/example/screenshot1.png" width="300"/>
 
 ```dart
 TransparentImageCard(
