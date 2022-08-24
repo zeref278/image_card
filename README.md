@@ -7,8 +7,7 @@ Customize a card with image by 2 type: fill or transparent
 ## Usage
 ### Fill image card
 
-<img src="example/screenshot.png" width="300"/>
-
+![img](example/screenshot.png)
 
 ```dart
 FillImageCard(
@@ -23,7 +22,7 @@ FillImageCard(
 
 ### Transparent image card
 
-<img src="example/screenshot1.png" width="300"/>
+![img](example/screenshot1.png)
 
 
 ```dart
