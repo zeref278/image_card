@@ -1,7 +1,7 @@
 name: image_card
-description: A new Flutter project.
+description: A Flutter package provides a image card customization.
 version: 0.0.1
-homepage:
+homepage: https://github.com/zeref278/image_card.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
